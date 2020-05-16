@@ -1,0 +1,57 @@
+.main-section{
+  margin : 0 auto;
+  margin-top:100px;
+  padding:0;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+.motal-content{
+  background-color: #3b4652;
+  opacity: 45;
+}
+
+.fa-facebook{
+  color: #3b5998;
+  font-size: 40px;
+  padding: 5px;
+}
+.fa-twitter{
+  color: #00aced;
+  font-size: 40px;
+  padding: 5px;
+}
+.fa-instagram{
+  color: #517fa4;
+  font-size: 40px;
+  padding: 5px;
+}
+.fa-youtube{
+  color: #bb0000;
+  font-size: 40px;
+  padding: 5px;
+}
+.fa-facebook:hover,.fa-twitter:hover,.fa-instagram:hover,.fa-youtube:hover{
+  color: #d5d5d5;
+}
+.ff{
+
+  margin-top: 65px;
+  margin-bottom: 10px;
+}
+
+
+.tbody{
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.photo{          // for logo on navigaton bar
+  margin-left: 20px;
+  padding: 5px;
+
+}
+
+.invoice_main{
+  margin : 0 auto;
+  margin-top:100px;
+  padding:0;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
